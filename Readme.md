@@ -1,3 +1,4 @@
 # Git Course 
 
- Este é um repositório para cursos com Git
+   Este é um repositório para cursos com Git.i
+   
